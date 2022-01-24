@@ -12,8 +12,7 @@
 
     To be precise, without a doubt, the Node.js event loop is single threaded.
 
-    However. Some of the functions that are included inside of the standard library of node are not actually 
-    single threaded.
+    However. Some of the functions that are included inside of the standard library of node are not actually single threaded.
 
 ![""](../images/DEV-08/DEV-08-A1.png)
 
