@@ -38,3 +38,7 @@
 ![""](../images/DEV-08/DEV-08-A4.png)
 
 ![""](../images/DEV-08/DEV-08-A5.png)
+
+## What really Happened
+
+![""](../images/DEV-08/DEV-08-A6.png)
