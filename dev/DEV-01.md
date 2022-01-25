@@ -1,4 +1,4 @@
-# DEV-01: Starting with Node Internals
+# DEV-01: Starting with Node Internals 
 
 ## Tags: []
 
@@ -9,7 +9,7 @@
     Node.js internally has a collection of dependencies that it uses to actually execute your code
     Two of the most important dependencies are V8 project and the libuv project.
 
-![""](../images/DEV-01/DEV-01-A1.png)
+![""](../images/DEV-01/DEV-01-A1.PNG)
 
 ## V8 Project
 
@@ -31,7 +31,7 @@
     and other one right here that actually executes our JavaScript code. Then what is the 
     purpose of Node.js?
 
-![""](../images/DEV-01/DEV-01-A2.png)
+![""](../images/DEV-01/DEV-01-A2.PNG)
 
 ### Purpose 1
 
