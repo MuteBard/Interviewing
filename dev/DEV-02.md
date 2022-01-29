@@ -6,8 +6,8 @@
 
 ## What is node.js doing?
 
-    Essentially, node.js takes all the inputs you provide, for example in this module called pbkdf2, and 
-    forwards them on to the C++ implementation of this function.
+    Essentially, node.js takes all the inputs you provide, for example in this module called crypto, there is this function called pbkdf2, and 
+    javascript pbkdf2 forwards to the C++ implementation of this function.
 
 ![""](../images/DEV-02/DEV-02-A1.png)
 
